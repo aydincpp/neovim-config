@@ -1,4 +1,4 @@
--- lua/utils/doc.lua
+-- lua/utils/keymaps_meta_markdown_gen.lua
 --
 -- Generates markdown table from lua/core/keymaps_meta.lua
 --
