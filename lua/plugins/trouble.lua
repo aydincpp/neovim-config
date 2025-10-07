@@ -12,7 +12,7 @@ return {
     warn_no_results = true,
     modes = {
       diagnostics = {
-        auto_open = true,
+        auto_open = false,
         auto_close = true,
         win = {
           relative = "editor",
