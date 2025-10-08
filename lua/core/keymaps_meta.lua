@@ -52,6 +52,11 @@ M.general = {
     mode = "n",
     keys = { { lhs = "N", desc = "Previous Search Centered" } },
   },
+  toggle_terminal = {
+    group = "General",
+    mode = { "n", "t" },
+    keys = { { lhs = "<C-.>", desc = "Toggle Terminal" } },
+  },
   exit_terminal = {
     group = "General",
     mode = "t",

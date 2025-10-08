@@ -109,7 +109,7 @@ map.set_keymaps(windows.move_up, "<C-w>k")
 -- Window resizing keymaps
 --
 -- By default, these use the window utility functions for smarter resizing.
--- If you prefer the built-in resize commands instead, uncomment the provided alternatives. 
+-- If you prefer the built-in resize commands instead, uncomment the provided alternatives.
 -- NOTE: set_keymaps will always override previous mappings, so you don't need to delete anything.
 
 -- Resize window narrower
