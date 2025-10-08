@@ -14,6 +14,7 @@ function M.apply()
   local normal = get_hl(0, { name = "Normal" })
 
   -- General
+  hl(0, "FloatBorder", { bg = "NONE" })
   hl(0, "NormalFloat", { bg = "NONE" })
   hl(0, "WinSeparator", { bg = "NONE", fg = win_sep.fg })
   hl(0, "EndOfBuffer", { fg = normal.bg, bg = "NONE" })
